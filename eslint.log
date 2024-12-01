@@ -1,0 +1,340 @@
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/js/activity1.js
+   19:24  warning  'MathJax' is not defined                no-undef
+   22:10  warning  'start_act1' is defined but never used  no-unused-vars
+   27:20  warning  'get_collapse_btn_text' is not defined  no-undef
+   33:20  warning  'AB' is not defined                     no-undef
+   33:32  warning  'CD' is not defined                     no-undef
+   33:43  warning  'd' is not defined                      no-undef
+   33:66  warning  'bed_slope' is not defined              no-undef
+   99:5   warning  'hide_all_steps' is not defined         no-undef
+  100:24  warning  'show_step' is not defined              no-undef
+  101:24  warning  'MathJax' is not defined                no-undef
+  105:5   warning  'area' is not defined                   no-undef
+  105:14  warning  'AB' is not defined                     no-undef
+  105:19  warning  'CD' is not defined                     no-undef
+  105:30  warning  'd' is not defined                      no-undef
+  106:5   warning  'ec' is not defined                     no-undef
+  106:11  warning  'CD' is not defined                     no-undef
+  106:16  warning  'AB' is not defined                     no-undef
+  107:5   warning  'BC' is not defined                     no-undef
+  107:29  warning  'ec' is not defined                     no-undef
+  107:47  warning  'd' is not defined                      no-undef
+  108:5   warning  'perimeter' is not defined              no-undef
+  108:17  warning  'AB' is not defined                     no-undef
+  108:27  warning  'BC' is not defined                     no-undef
+  109:5   warning  'm' is not defined                      no-undef
+  109:9   warning  'area' is not defined                   no-undef
+  109:16  warning  'perimeter' is not defined              no-undef
+  110:5   warning  'c' is not defined                      no-undef
+  110:26  warning  'k' is not defined                      no-undef
+  110:40  warning  'm' is not defined                      no-undef
+  111:5   warning  'i' is not defined                      no-undef
+  111:13  warning  'bed_slope' is not defined              no-undef
+  112:5   warning  'Q' is not defined                      no-undef
+  112:9   warning  'area' is not defined                   no-undef
+  112:16  warning  'c' is not defined                      no-undef
+  112:30  warning  'm' is not defined                      no-undef
+  112:34  warning  'i' is not defined                      no-undef
+  113:5   warning  'Q_lit' is not defined                  no-undef
+  113:13  warning  'Q' is not defined                      no-undef
+  115:10  warning  'verify0' is defined but never used     no-unused-vars
+  117:28  warning  'area' is not defined                   no-undef
+  118:26  warning  'ec' is not defined                     no-undef
+  119:26  warning  'BC' is not defined                     no-undef
+  120:33  warning  'perimeter' is not defined              no-undef
+  121:44  warning  'm' is not defined                      no-undef
+  122:25  warning  'c' is not defined                      no-undef
+  123:25  warning  'i' is not defined                      no-undef
+  124:25  warning  'Q' is not defined                      no-undef
+  125:34  warning  'Q_lit' is not defined                  no-undef
+  142:10  warning  'verify_values' is not defined          no-undef
+  142:82  warning  'area' is not defined                   no-undef
+  146:10  warning  'verify_values' is not defined          no-undef
+  146:82  warning  'ec' is not defined                     no-undef
+  150:10  warning  'verify_values' is not defined          no-undef
+  150:82  warning  'BC' is not defined                     no-undef
+  154:10  warning  'verify_values' is not defined          no-undef
+  154:82  warning  'perimeter' is not defined              no-undef
+  158:10  warning  'verify_values' is not defined          no-undef
+  158:82  warning  'm' is not defined                      no-undef
+  162:10  warning  'verify_values' is not defined          no-undef
+  162:82  warning  'c' is not defined                      no-undef
+  166:10  warning  'verify_values' is not defined          no-undef
+  166:82  warning  'Q' is not defined                      no-undef
+  170:10  warning  'verify_values' is not defined          no-undef
+  170:82  warning  'Q_lit' is not defined                  no-undef
+  176:25  warning  'area' is not defined                   no-undef
+  178:25  warning  'ec' is not defined                     no-undef
+  180:25  warning  'BC' is not defined                     no-undef
+  182:25  warning  'perimeter' is not defined              no-undef
+  184:25  warning  'm' is not defined                      no-undef
+  186:25  warning  'c' is not defined                      no-undef
+  188:25  warning  'Q' is not defined                      no-undef
+  190:25  warning  'Q_lit' is not defined                  no-undef
+  193:5   warning  'activity2' is not defined              no-undef
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/js/activity2.js
+    1:10  warning  'activity2' is defined but never used   no-unused-vars
+   16:5   warning  'maindiv' is not defined                no-undef
+   17:24  warning  'MathJax' is not defined                no-undef
+   19:10  warning  'start_act2' is defined but never used  no-unused-vars
+   24:20  warning  'get_collapse_btn_text' is not defined  no-undef
+   30:20  warning  'AB' is not defined                     no-undef
+   30:32  warning  'CD' is not defined                     no-undef
+   30:43  warning  'd' is not defined                      no-undef
+   30:66  warning  'bed_slope' is not defined              no-undef
+   97:5   warning  'maindiv' is not defined                no-undef
+   99:24  warning  'show_step' is not defined              no-undef
+  100:24  warning  'MathJax' is not defined                no-undef
+  103:5   warning  'area' is not defined                   no-undef
+  103:14  warning  'AB' is not defined                     no-undef
+  103:19  warning  'CD' is not defined                     no-undef
+  103:30  warning  'd' is not defined                      no-undef
+  104:5   warning  'ec' is not defined                     no-undef
+  104:11  warning  'CD' is not defined                     no-undef
+  104:16  warning  'AB' is not defined                     no-undef
+  105:5   warning  'BC' is not defined                     no-undef
+  105:29  warning  'ec' is not defined                     no-undef
+  105:47  warning  'd' is not defined                      no-undef
+  106:5   warning  'perimeter' is not defined              no-undef
+  106:17  warning  'AB' is not defined                     no-undef
+  106:27  warning  'BC' is not defined                     no-undef
+  107:5   warning  'm' is not defined                      no-undef
+  107:9   warning  'area' is not defined                   no-undef
+  107:16  warning  'perimeter' is not defined              no-undef
+  108:5   warning  'act2_c' is not defined                 no-undef
+  108:31  warning  'i' is not defined                      no-undef
+  108:41  warning  'N' is not defined                      no-undef
+  108:69  warning  'i' is not defined                      no-undef
+  108:74  warning  'N' is not defined                      no-undef
+  108:88  warning  'm' is not defined                      no-undef
+  109:5   warning  'i' is not defined                      no-undef
+  109:13  warning  'bed_slope' is not defined              no-undef
+  110:5   warning  'act2_Q' is not defined                 no-undef
+  110:14  warning  'area' is not defined                   no-undef
+  110:21  warning  'act2_c' is not defined                 no-undef
+  110:40  warning  'm' is not defined                      no-undef
+  110:44  warning  'i' is not defined                      no-undef
+  111:5   warning  'act2_Q_lit' is not defined             no-undef
+  111:18  warning  'act2_Q' is not defined                 no-undef
+  113:10  warning  'verify1' is defined but never used     no-unused-vars
+  115:28  warning  'area' is not defined                   no-undef
+  116:26  warning  'ec' is not defined                     no-undef
+  117:26  warning  'BC' is not defined                     no-undef
+  118:33  warning  'perimeter' is not defined              no-undef
+  119:44  warning  'm' is not defined                      no-undef
+  120:25  warning  'act2_c' is not defined                 no-undef
+  121:25  warning  'i' is not defined                      no-undef
+  122:30  warning  'act2_Q' is not defined                 no-undef
+  123:39  warning  'act2_Q_lit' is not defined             no-undef
+  140:10  warning  'verify_values' is not defined          no-undef
+  140:82  warning  'area' is not defined                   no-undef
+  144:10  warning  'verify_values' is not defined          no-undef
+  144:82  warning  'ec' is not defined                     no-undef
+  148:10  warning  'verify_values' is not defined          no-undef
+  148:82  warning  'BC' is not defined                     no-undef
+  152:10  warning  'verify_values' is not defined          no-undef
+  152:82  warning  'perimeter' is not defined              no-undef
+  156:10  warning  'verify_values' is not defined          no-undef
+  156:82  warning  'm' is not defined                      no-undef
+  160:10  warning  'verify_values' is not defined          no-undef
+  160:82  warning  'act2_c' is not defined                 no-undef
+  164:10  warning  'verify_values' is not defined          no-undef
+  164:82  warning  'act2_Q' is not defined                 no-undef
+  168:10  warning  'verify_values' is not defined          no-undef
+  168:82  warning  'act2_Q_lit' is not defined             no-undef
+  174:25  warning  'area' is not defined                   no-undef
+  176:25  warning  'ec' is not defined                     no-undef
+  178:25  warning  'BC' is not defined                     no-undef
+  180:25  warning  'perimeter' is not defined              no-undef
+  182:25  warning  'm' is not defined                      no-undef
+  184:25  warning  'act2_c' is not defined                 no-undef
+  186:25  warning  'act2_Q' is not defined                 no-undef
+  188:25  warning  'act2_Q_lit' is not defined             no-undef
+  191:5   warning  'activity3' is not defined              no-undef
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/js/activity3.js
+    1:10  warning  'activity3' is defined but never used   no-unused-vars
+   16:5   warning  'maindiv' is not defined                no-undef
+   17:24  warning  'MathJax' is not defined                no-undef
+   19:10  warning  'start_act3' is defined but never used  no-unused-vars
+   24:20  warning  'get_collapse_btn_text' is not defined  no-undef
+   30:20  warning  'AB' is not defined                     no-undef
+   30:32  warning  'CD' is not defined                     no-undef
+   30:43  warning  'd' is not defined                      no-undef
+   30:66  warning  'bed_slope' is not defined              no-undef
+   97:5   warning  'maindiv' is not defined                no-undef
+   99:24  warning  'show_step' is not defined              no-undef
+  100:24  warning  'MathJax' is not defined                no-undef
+  103:5   warning  'area' is not defined                   no-undef
+  103:14  warning  'AB' is not defined                     no-undef
+  103:19  warning  'CD' is not defined                     no-undef
+  103:30  warning  'd' is not defined                      no-undef
+  104:5   warning  'ec' is not defined                     no-undef
+  104:11  warning  'CD' is not defined                     no-undef
+  104:16  warning  'AB' is not defined                     no-undef
+  105:5   warning  'BC' is not defined                     no-undef
+  105:29  warning  'ec' is not defined                     no-undef
+  105:47  warning  'd' is not defined                      no-undef
+  106:5   warning  'perimeter' is not defined              no-undef
+  106:17  warning  'AB' is not defined                     no-undef
+  106:27  warning  'BC' is not defined                     no-undef
+  107:5   warning  'm' is not defined                      no-undef
+  107:9   warning  'area' is not defined                   no-undef
+  107:16  warning  'perimeter' is not defined              no-undef
+  108:5   warning  'act3_c' is not defined                 no-undef
+  108:19  warning  'N' is not defined                      no-undef
+  108:33  warning  'm' is not defined                      no-undef
+  109:5   warning  'i' is not defined                      no-undef
+  109:13  warning  'bed_slope' is not defined              no-undef
+  110:5   warning  'act3_Q' is not defined                 no-undef
+  110:14  warning  'area' is not defined                   no-undef
+  110:21  warning  'act3_c' is not defined                 no-undef
+  110:40  warning  'm' is not defined                      no-undef
+  110:44  warning  'i' is not defined                      no-undef
+  111:5   warning  'act3_Q_lit' is not defined             no-undef
+  111:18  warning  'act3_Q' is not defined                 no-undef
+  113:10  warning  'verify2' is defined but never used     no-unused-vars
+  115:28  warning  'area' is not defined                   no-undef
+  116:26  warning  'ec' is not defined                     no-undef
+  117:26  warning  'BC' is not defined                     no-undef
+  118:33  warning  'perimeter' is not defined              no-undef
+  119:44  warning  'm' is not defined                      no-undef
+  120:25  warning  'act3_c' is not defined                 no-undef
+  121:25  warning  'i' is not defined                      no-undef
+  122:30  warning  'act3_Q' is not defined                 no-undef
+  123:39  warning  'act3_Q_lit' is not defined             no-undef
+  140:10  warning  'verify_values' is not defined          no-undef
+  140:82  warning  'area' is not defined                   no-undef
+  144:10  warning  'verify_values' is not defined          no-undef
+  144:82  warning  'ec' is not defined                     no-undef
+  148:10  warning  'verify_values' is not defined          no-undef
+  148:82  warning  'BC' is not defined                     no-undef
+  152:10  warning  'verify_values' is not defined          no-undef
+  152:82  warning  'perimeter' is not defined              no-undef
+  156:10  warning  'verify_values' is not defined          no-undef
+  156:82  warning  'm' is not defined                      no-undef
+  160:10  warning  'verify_values' is not defined          no-undef
+  160:82  warning  'act3_c' is not defined                 no-undef
+  164:10  warning  'verify_values' is not defined          no-undef
+  164:82  warning  'act3_Q' is not defined                 no-undef
+  168:10  warning  'verify_values' is not defined          no-undef
+  168:82  warning  'act3_Q_lit' is not defined             no-undef
+  174:25  warning  'area' is not defined                   no-undef
+  176:25  warning  'ec' is not defined                     no-undef
+  178:25  warning  'BC' is not defined                     no-undef
+  180:25  warning  'perimeter' is not defined              no-undef
+  182:25  warning  'm' is not defined                      no-undef
+  184:25  warning  'act2_c' is not defined                 no-undef
+  186:25  warning  'act2_Q' is not defined                 no-undef
+  188:25  warning  'act2_Q_lit' is not defined             no-undef
+
+/home/runner/work/exp-trapezoidal-open-channel-iitb/exp-trapezoidal-open-channel-iitb/experiment/simulation/js/data.js
+   2:5  warning  'g' is assigned a value but never used                 no-unused-vars
+   4:5  warning  'AB' is assigned a value but never used                no-unused-vars
+   5:5  warning  'CD' is assigned a value but never used                no-unused-vars
+   6:5  warning  'd' is assigned a value but never used                 no-unused-vars
+   7:5  warning  'bed_slope' is assigned a value but never used         no-unused-vars
+   8:5  warning  'ec' is assigned a value but never used                no-unused-vars
+   9:5  warning  'BC' is assigned a value but never used                no-unused-vars
+  10:5  warning  'k' is assigned a value but never used                 no-unused-vars
+  11:5  warning  'area' is assigned a value but never used              no-unused-vars
+  12:5  warning  'perimeter' is assigned a value but never used         no-unused-vars
+  13:5  warning  'm' is assigned a value but never used                 no-unused-vars
+  14:5  warning  'c' is assigned a value but never used                 no-unused-vars
+  15:5  warning  'i' is assigned a value but never used                 no-unused-vars
+  16:5  warning  'Q' is assigned a value but never used                 no-unused-vars
+  17:5  warning  'Q_lit' is assigned a value but never used             no-unused-vars
+  19:5  warning  'N' is assigned a value but never used                 no-unused-vars
+  20:5  warning  'act2_c' is assigned a value but never used            no-unused-vars
+  21:5  warning  'act2_Q' is assigned a value but never used            no-unused-vars
+  22:5  warning  'act2_Q_lit' is assigned a value but never used        no-unused-vars
+  24:5  warning  'act3_N' is assigned a value but never used            no-unused-vars
+  25:5  warning  'act3_c' is assigned a value but never used            no-unused-vars
+  26:5  warning  'act3_Q' is assigned a value but never used            no-unused-vars
+  27:5  warning  'act3_Q_lit' is assigned a value but never used        no-unused-vars
+  29:5  warning  'act4_cd' is assigned a value but never used           no-unused-vars
+  30:5  warning  'act4_L1' is assigned a value but never used           no-unused-vars
+  31:5  warning  'act4_L2' is assigned a value but never used           no-unused-vars
+  32:5  warning  'act4_L3' is assigned a value but never used           no-unused-vars
+  33:5  warning  'act4_H1' is assigned a value but never used           no-unused-vars
+  34:5  warning  'act4_H2' is assigned a value but never used           no-unused-vars
+  35:5  warning  'act4_H3' is assigned a value but never used           no-unused-vars
+  36:5  warning  'act4_Q1' is assigned a value but never used           no-unused-vars
+  37:5  warning  'act4_Q2' is assigned a value but never used           no-unused-vars
+  38:5  warning  'act4_Q3' is assigned a value but never used           no-unused-vars
+  39:5  warning  'act4_Q1_lit' is assigned a value but never used       no-unused-vars
+  40:5  warning  'act4_Q2_lit' is assigned a value but never used       no-unused-vars
+  41:5  warning  'act4_Q3_lit' is assigned a value but never used       no-unused-vars
+  42:5  warning  'act4_Q_total_lit' is assigned a value but never used  no-unused-vars
+
+✖ 313 problems (0 errors, 313 warnings)
+
