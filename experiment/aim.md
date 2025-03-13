@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h2> AIM: To study flow over trapezoidal open channel </h2>
